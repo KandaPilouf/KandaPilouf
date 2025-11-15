@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 I'm Sami Khan.
+
+## I'm a junior web developer currently in training at EFP Bruxelles.
 
 <!--
 **KandaPilouf/KandaPilouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
