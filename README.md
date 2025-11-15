@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Sami Khan.
 
 ## Short Bio
-I'm a junior web developer currently in training at EFP Bruxelles.
+Junior web developer at EFP Bruxelles. Focused on building clean, efficient websites and always learning new tools. Lifelong internet kid aiming to leave a mark on the web.
 
 <!--
 **KandaPilouf/KandaPilouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
