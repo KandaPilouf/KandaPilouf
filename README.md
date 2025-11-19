@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Junior web developer at EFP Bruxelles. Focused on building clean, efficient websites and always learning new tools. Lifelong internet kid aiming to leave a mark on the web.</p>
+<p align="left">Junior web developer studying at EFP Bruxelles. Focused on building clean, efficient websites and always learning new tools. Lifelong internet kid aiming to leave a mark on the web.</p>
 
 ###
 
